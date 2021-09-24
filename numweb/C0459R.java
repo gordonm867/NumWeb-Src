@@ -1,9 +1,7 @@
 package com.miloappdev.numweb;
 
-/* renamed from: com.miloappdev.numweb.R */
 public final class C0459R {
 
-    /* renamed from: com.miloappdev.numweb.R$anim */
     public static final class anim {
         public static final int abc_fade_in = 2130771968;
         public static final int abc_fade_out = 2130771969;
@@ -23,7 +21,6 @@ public final class C0459R {
         public static final int design_snackbar_out = 2130771983;
     }
 
-    /* renamed from: com.miloappdev.numweb.R$animator */
     public static final class animator {
         public static final int design_appbar_state_list_animator = 2130837504;
         public static final int design_fab_hide_motion_spec = 2130837505;
@@ -37,7 +34,6 @@ public final class C0459R {
         public static final int mtrl_fab_transformation_sheet_expand_spec = 2130837513;
     }
 
-    /* renamed from: com.miloappdev.numweb.R$attr */
     public static final class attr {
         public static final int actionBarDivider = 2130903040;
         public static final int actionBarItemBackground = 2130903041;
@@ -582,7 +578,6 @@ public final class C0459R {
         public static final int windowNoTitle = 2130903579;
     }
 
-    /* renamed from: com.miloappdev.numweb.R$bool */
     public static final class bool {
         public static final int abc_action_bar_embed_tabs = 2130968576;
         public static final int abc_allow_stacked_button_bar = 2130968577;
@@ -590,7 +585,6 @@ public final class C0459R {
         public static final int mtrl_btn_textappearance_all_caps = 2130968579;
     }
 
-    /* renamed from: com.miloappdev.numweb.R$color */
     public static final class color {
         public static final int abc_background_cache_hint_selector_material_dark = 2131034112;
         public static final int abc_background_cache_hint_selector_material_light = 2131034113;
@@ -736,7 +730,6 @@ public final class C0459R {
         public static final int tooltip_background_light = 2131034253;
     }
 
-    /* renamed from: com.miloappdev.numweb.R$dimen */
     public static final class dimen {
         public static final int abc_action_bar_content_inset_material = 2131099648;
         public static final int abc_action_bar_content_inset_with_nav = 2131099649;
@@ -955,8 +948,7 @@ public final class C0459R {
         public static final int tooltip_y_offset_non_touch = 2131099862;
         public static final int tooltip_y_offset_touch = 2131099863;
     }
-
-    /* renamed from: com.miloappdev.numweb.R$drawable */
+    
     public static final class C0460drawable {
         public static final int abc_ab_share_pack_mtrl_alpha = 2131165191;
         public static final int abc_action_bar_item_background_material = 2131165192;
@@ -1109,23 +1101,15 @@ public final class C0459R {
         public static final int tooltip_frame_light = 2131165339;
         public static final int two = 2131165340;
         public static final int white = 2131165341;
-        /* added by JADX */
         public static final int $avd_hide_password__0 = 2131165184;
-        /* added by JADX */
         public static final int $avd_hide_password__1 = 2131165185;
-        /* added by JADX */
         public static final int $avd_hide_password__2 = 2131165186;
-        /* added by JADX */
         public static final int $avd_show_password__0 = 2131165187;
-        /* added by JADX */
         public static final int $avd_show_password__1 = 2131165188;
-        /* added by JADX */
         public static final int $avd_show_password__2 = 2131165189;
-        /* added by JADX */
         public static final int $ic_launcher_foreground__0 = 2131165190;
     }
 
-    /* renamed from: com.miloappdev.numweb.R$id */
     public static final class C0461id {
         public static final int ALT = 2131230720;
         public static final int CTRL = 2131230721;
@@ -1370,7 +1354,6 @@ public final class C0459R {
         public static final int uniform = 2131230960;
         public static final int unlabeled = 2131230961;
 
-        /* renamed from: up */
         public static final int f50up = 2131230962;
         public static final int useLogo = 2131230963;
         public static final int view_offset_helper = 2131230964;
@@ -1381,7 +1364,6 @@ public final class C0459R {
         public static final int wrap_content = 2131230969;
     }
 
-    /* renamed from: com.miloappdev.numweb.R$integer */
     public static final class integer {
         public static final int abc_config_activityDefaultDur = 2131296256;
         public static final int abc_config_activityShortDur = 2131296257;
@@ -1401,7 +1383,6 @@ public final class C0459R {
         public static final int status_bar_notification_info_maxnum = 2131296271;
     }
 
-    /* renamed from: com.miloappdev.numweb.R$interpolator */
     public static final class C0462interpolator {
         public static final int mtrl_fast_out_linear_in = 2131361792;
         public static final int mtrl_fast_out_slow_in = 2131361793;
@@ -1409,7 +1390,6 @@ public final class C0459R {
         public static final int mtrl_linear_out_slow_in = 2131361795;
     }
 
-    /* renamed from: com.miloappdev.numweb.R$layout */
     public static final class layout {
         public static final int abc_action_bar_title_item = 2131427328;
         public static final int abc_action_bar_up_container = 2131427329;
@@ -1472,25 +1452,21 @@ public final class C0459R {
         public static final int winpopup = 2131427386;
     }
 
-    /* renamed from: com.miloappdev.numweb.R$menu */
     public static final class C0463menu {
         public static final int menu_main = 2131492864;
     }
 
-    /* renamed from: com.miloappdev.numweb.R$mipmap */
     public static final class mipmap {
         public static final int ic_launcher = 2131558400;
         public static final int ic_launcher_foreground = 2131558401;
         public static final int ic_launcher_round = 2131558402;
     }
 
-    /* renamed from: com.miloappdev.numweb.R$raw */
     public static final class raw {
         public static final int wrong = 2131623936;
         public static final int yay = 2131623937;
     }
 
-    /* renamed from: com.miloappdev.numweb.R$string */
     public static final class string {
         public static final int abc_action_bar_home_description = 2131689472;
         public static final int abc_action_bar_up_description = 2131689473;
@@ -1563,7 +1539,6 @@ public final class C0459R {
         public static final int mtrl_chip_close_icon_content_description = 2131689540;
         public static final int num = 2131689541;
 
-        /* renamed from: ok */
         public static final int f51ok = 2131689542;
         public static final int password_toggle_content_description = 2131689543;
         public static final int path_password_eye = 2131689544;
@@ -1583,7 +1558,6 @@ public final class C0459R {
         public static final int you_did_it = 2131689558;
     }
 
-    /* renamed from: com.miloappdev.numweb.R$style */
     public static final class style {
         public static final int AlertDialog_AppCompat = 2131755008;
         public static final int AlertDialog_AppCompat_Light = 2131755009;
@@ -1913,11 +1887,9 @@ public final class C0459R {
         public static final int ThemeOverlay_MaterialComponents_TextInputEditText = 2131755381;
         public static final int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131755382;
 
-        /* renamed from: ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense */
         public static final int f52xb44864b4 = 2131755383;
         public static final int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131755384;
 
-        /* renamed from: ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense */
         public static final int f53xc85a02f4 = 2131755385;
         public static final int Theme_AppCompat = 2131755319;
         public static final int Theme_AppCompat_CompactMenu = 2131755320;
@@ -2090,7 +2062,6 @@ public final class C0459R {
         public static final int Widget_Support_CoordinatorLayout = 2131755506;
     }
 
-    /* renamed from: com.miloappdev.numweb.R$styleable */
     public static final class styleable {
         public static final int[] ActionBar = {C0459R.attr.background, C0459R.attr.backgroundSplit, C0459R.attr.backgroundStacked, C0459R.attr.contentInsetEnd, C0459R.attr.contentInsetEndWithActions, C0459R.attr.contentInsetLeft, C0459R.attr.contentInsetRight, C0459R.attr.contentInsetStart, C0459R.attr.contentInsetStartWithNavigation, C0459R.attr.customNavigationLayout, C0459R.attr.displayOptions, C0459R.attr.divider, C0459R.attr.elevation, C0459R.attr.height, C0459R.attr.hideOnContentScroll, C0459R.attr.homeAsUpIndicator, C0459R.attr.homeLayout, C0459R.attr.icon, C0459R.attr.indeterminateProgressStyle, C0459R.attr.itemPadding, C0459R.attr.logo, C0459R.attr.navigationMode, C0459R.attr.popupTheme, C0459R.attr.progressBarPadding, C0459R.attr.progressBarStyle, C0459R.attr.subtitle, C0459R.attr.subtitleTextStyle, C0459R.attr.title, C0459R.attr.titleTextStyle};
         public static final int[] ActionBarLayout = {16842931};
